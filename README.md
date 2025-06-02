@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devv712&label=Profile%20views&color=0e75b6&style=flat" alt="devv712" /> </p>
 
-- 🔭 I have interned at: KodeKloud – Content Intern](Reviewed 50+ course modules, optimized AI lab tools, and improved user experience.)
+- 🔭 I have interned at: KodeKloud – Content Intern (Reviewed 50+ course modules, optimized AI lab tools, and improved user experience.)
 
 - 🌱 I’m currently learning **Terraform Jenkins Golang Advanced AWS (Solutions Architect – Associate level) Federated Learning, AI SaaS Platforms**
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React, Vue, GSAP, Next.js, DevOps, AWS, AI SaaS apps, Cloud Security**
 
-- 📫 How to reach me **Email: devrpita79@gmail.com LinkedIn: https://www.linkedin.com/in/debarpita-dutta-0a8bb8262/**
+- 📫 How to reach me **Email: devrpita79@gmail.com LinkedIn: https://www.linkedin.com/in/debarpita-dutta-0a8bb8262/ Website: https://debarpitadutta712237.myportfolio.com/**
 
 - 📄 Know about my experiences [https://github.com/devv712/Resume](https://github.com/devv712/Resume)
 
